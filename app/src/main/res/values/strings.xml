@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+    <string name="app_name">des_s_application10</string>
+    <string name="loading">Loading…</string>
+    <string name="no_internet_connection">No internet connection!</string>
+<string name="lbl_selanjutnya">Selanjutnya</string>
+  <string name="msg_masukkan_email">Masukkan email dan password untuk login.</string>
+  <string name="lbl_t">t.</string>
+  <string name="lbl_kirimkan_kode">Kirimkan Kode</string>
+  <string name="lbl_lupa_password">Lupa Password?</string>
+  <string name="lbl_masuk">Masuk</string>
+  <string name="lbl_lupa_password2">Lupa Password</string>
+  <string name="lbl_hello_gmail_com">hello@gmail.com</string>
+  <string name="lbl_xxxxxxxx">xxxxxxxx</string>
+  <string name="msg_setuju_syarat">Setuju syarat &amp; ketentuan</string>
+  <string name="lbl_sign_in">Sign in </string>
+  <string name="msg_atau_belum_puny">atau
+Belum Punya Akun?</string>
+  <string name="lbl_10">10</string>
+  <string name="msg_cth_saaxx_gma">cth : saaxx@gmail.com</string>
+  <string name="msg_buat_kata_sandi">Buat Kata Sandi Baru</string>
+  <string name="lbl_nama_anak">Nama Anak</string>
+  <string name="lbl_atau">atau
+</string>
+  <string name="lbl_verifikasi_kode">Verifikasi Kode</string>
+  <string name="lbl_gender">Gender</string>
+  <string name="lbl_umur_anak">Umur Anak</string>
+  <string name="lbl_6">6</string>
+  <string name="lbl_avatar">Avatar</string>
+  <string name="lbl_lewati">Lewati</string>
+  <string name="lbl_7">7</string>
+  <string name="lbl_perempuan">Perempuan</string>
+  <string name="msg_reset_dengan_no">Reset dengan nomor telepon?</string>
+  <string name="lbl_8">8</string>
+  <string name="lbl_9">9</string>
+  <string name="msg_masukkan_kode_e">Masukkan kode empat digit yang telah dikirim ke email/nomor anda.</string>
+  <string name="lbl_login">Login</string>
+  <string name="msg_jaga_keamanan_a">Jaga keamanan akun Anda dengan membuat kata sandi yang kuat.</string>
+  <string name="lbl_berikutnya">Berikutnya</string>
+  <string name="msg_yuk_baca_buat">Yuk baca, buat, koleksi karya digital kamu</string>
+  <string name="lbl_simpan">Simpan</string>
+  <string name="lbl_cosmobook">Cosmobook</string>
+  <string name="msg_hanya_di_cosmob">Hanya di Cosmobook</string>
+  <string name="msg_atur_ulang_sand">Atur Ulang Sandi</string>
+  <string name="msg_jaga_keamanan_a2">Jaga keamanan akun Anda dengan membuat kata sandi yang kua</string>
+  <string name="lbl_buat_akun">Buat Akun</string>
+  <string name="lbl_62_81354771356">+62 81354771356</string>
+  <string name="msg_selamat_datang2">Selamat Datang !</string>
+  <string name="msg_belum_punya_aku">Belum Punya Akun?</string>
+  <string name="msg_masukkan_email2">Masukkan email atau nomor telepon Anda, kami akan mengirimkan kode verifikasi untuk mengatur ulang kode sandi anda.</string>
+  <string name="lbl_password">Password</string>
+  <string name="lbl_daftar">Daftar</string>
+  <string name="msg_buat_profile_an">Buat Profile Anak</string>
+  <string name="lbl_alamat_email">Alamat email</string>
+  <string name="msg_daftar_dengan_g">Daftar dengan Google</string>
+  <string name="msg_selamat_datang">Selamat Datang Di</string>
+  <string name="msg_reset_dengan_em">Reset dengan email?</string>
+  <string name="lbl_laki_laki">Laki-laki</string>
+  <string name="lbl_atau2">Atau</string>
+<string name="msg_please_enter_valid_email">Please enter valid email</string>
+</resources>

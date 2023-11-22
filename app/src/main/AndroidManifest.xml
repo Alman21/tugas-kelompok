@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest package="com.dessapplication.app" xmlns:android="http://schemas.android.com/apk/res/android">
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <application android:allowBackup="false"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name" android:largeHeap="true"
+        android:name="com.dessapplication.app.appcomponents.di.MyApp"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true" android:theme="@style/Theme.MyApp" android:usesCleartextTraffic="true">
+        <activity
+            android:name="com.dessapplication.app.modules.splashscreenthree.ui.SplashScreenThreeActivity" android:screenOrientation="portrait"/>
+        <activity
+            android:name="com.dessapplication.app.modules.splashscreentwo.ui.SplashScreenTwoActivity" android:screenOrientation="portrait"/>
+        <activity
+            android:name="com.dessapplication.app.modules.forgetpasstwo.ui.ForgetPassTwoActivity" android:screenOrientation="portrait"/>
+        <activity android:exported="true"
+            android:name="com.dessapplication.app.modules.splashscreen.ui.SplashScreenActivity" android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.dessapplication.app.modules.forgetpass.ui.ForgetPassActivity" android:screenOrientation="portrait"/>
+        <activity
+            android:name="com.dessapplication.app.modules.signin.ui.SigninActivity" android:screenOrientation="portrait"/>
+        <activity
+            android:name="com.dessapplication.app.modules.splashscreenone.ui.SplashScreenOneActivity" android:screenOrientation="portrait"/>
+        <activity
+            android:name="com.dessapplication.app.modules.forgetpassthree.ui.ForgetPassThreeActivity" android:screenOrientation="portrait"/>
+        <activity
+            android:name="com.dessapplication.app.modules.forgetpassone.ui.ForgetPassOneActivity" android:screenOrientation="portrait"/>
+        <activity
+            android:name="com.dessapplication.app.modules.login.ui.LoginActivity" android:screenOrientation="portrait"/>
+        <activity
+            android:name="com.dessapplication.app.modules.loginpendukung.ui.LoginPendukungActivity" android:screenOrientation="portrait"/>
+    </application>
+</manifest>
